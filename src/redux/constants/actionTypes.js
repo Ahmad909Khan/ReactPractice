@@ -1,0 +1,7 @@
+export const ActionTypes = {
+    ADD_NEW_ITEM: "ADD_NEW_ITEM",
+    CURRENT_ITEM: "CURRENT_ITEM",
+    UPDATE_ITEM: "UPDATE_ITEM",
+    REMOVE_ITEM: "REMOVE_ITEM",
+    EDIT_MODE: "EDIT_MODE"
+};
